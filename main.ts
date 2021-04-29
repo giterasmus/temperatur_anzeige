@@ -6,10 +6,7 @@ input.onButtonPressed(Button.A, function () {
     DisplayIsBusy = false
 })
 /**
- * https://www.youtube.com/watch?v=-fZm1JCvxlE
- */
-/**
- * Das Video dazu:
+ * Das Video dazu: https://www.youtube.com/watch?v=-fZm1JCvxlE
  */
 let DisplayIsBusy = false
 DisplayIsBusy = false
